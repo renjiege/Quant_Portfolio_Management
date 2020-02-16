@@ -1,1 +1,1 @@
-# Quant Portfolio Management
+# Quantitative Portfolio Management with DDPG
