@@ -1,1 +1,1 @@
-# Quant_Portfolio_Management
+# Quant Portfolio Management
